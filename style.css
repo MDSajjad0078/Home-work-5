@@ -1,0 +1,83 @@
+body
+{
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+background-image: url(background.jpg);
+background-size: cover;
+background-position: center;
+
+
+
+}
+
+
+.Login-from
+   
+   {   
+   
+    width: 300px;   
+    box-shadow: 0 0 3px 0 rgba(122, 40, 85, 0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto;
+    text-align: center;
+    }
+    .Login-from h1
+    {
+       color: #1c8adb; 
+        margin-bottom: 30px;
+    
+    }
+    .input-box
+    {
+      border-radius: 20px;  
+      padding: 10px;
+      margin: 10px;
+      width: 100px;
+      border: 1px solit #21afde;
+    outline: none;
+    
+    }
+    button
+    {
+        color: #ffff00;
+       width: 100%;
+        padding: 10px;
+        border-radius: 20px;
+        font-size: 15px;
+        margin: 10px;
+         border: none;
+         outline: none;
+         cursor: pointer;
+    }
+    signup-btn
+    {
+       background-color: #1c8adb; 
+       }
+       .twitter-btn
+       {
+           background-color: #1c8adb;
+       }
+       a
+       {
+           text-decoration: none;
+       }
+       hr
+       {
+           margin-top: 20px;
+           width: 80%;
+        }
+        .or
+        {
+            background: #fff;
+            width: 30px;
+            margin: -19px auto 10px;
+        }
+        img
+        {
+            width: 70px;
+            margin-top: -50px;
+        
+        
+        }
